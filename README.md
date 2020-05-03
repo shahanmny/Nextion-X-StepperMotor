@@ -9,7 +9,7 @@
 	- A bunch of Wires
 
 ## Diagram
-![Diagram](diagram.png)
+	![Diagram](diagram.png)
 
 ## Setup
 	1. Follow the diagram above
@@ -17,7 +17,7 @@
 	3. Upload the .ino file to the Arduino(When uploading make sure the no wires are in the Pins 0 and 1(Serial Ports) otherwise a error will show up)
 
 ## Interface
-![Interface](interface.png)
+	![Interface](interface.png)
 	- Enter integers, fractions or both(using the SPC button)
 	- CAL or Calibration allows the user to change the position withour the motor turning
 	- The blue text above is the current position of the motor
