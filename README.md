@@ -10,3 +10,10 @@
 
 ## Diagram
 ![Diagram](diagram.png)
+
+## Setup
+	1. Follow the diagram above
+	2. Upload the TFT file to the Nextion Screen
+	3. Upload the .ino file to the Arduino(When uploading make sure the no wire are in the Pins 1 and 2(Serial Ports) otherwise a error will show up)
+
+## Interface
