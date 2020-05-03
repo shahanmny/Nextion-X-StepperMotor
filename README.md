@@ -9,3 +9,4 @@
 	- A bunch of Wires
 
 ## Diagram
+![Diagram](diagram.png)
