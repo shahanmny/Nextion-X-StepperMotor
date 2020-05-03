@@ -20,13 +20,13 @@
 ![Interface](interface.PNG)
 	
 	- Enter integers, fractions or both(using the SPC button)
-	- CAL or Calibration allows the user to change the position withour the motor turning
+	- CAL or Calibration allows the user to change the position without the motor turning
 	- The blue text above is the current position of the motor
 	- The Setting button on the top right allows the user to go to the setting page and change the speed of the motor
 
 ## Example
 	User: 1 1/4 -> Enter
-	Motor: Rotates a full Revolution and then a Quarter to get to the "1 1/4" position
+	Motor: Rotates a full Revolution and then a Quarter of a Revolution to get to the "1 1/4" position
 	
 	User: 2 -> Enter
 	Motor: Rotates 3/4 of a Revolution to get to the "2" position
