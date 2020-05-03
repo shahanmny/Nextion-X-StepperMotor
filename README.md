@@ -13,7 +13,7 @@
 
 ## Setup
 	1. Follow the diagram above
-	2. Upload the TFT file to the Nextion Screen
+	2. Upload the TFT file to the Nextion Screen via a mico SD Card
 	3. Upload the .ino file to the Arduino(When uploading make sure the no wires are in the Pins 0 and 1(Serial Ports) otherwise a error will show up)
 
 ## Interface
