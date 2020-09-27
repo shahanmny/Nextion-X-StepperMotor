@@ -19,10 +19,9 @@
 
 ## Interface
 ![Interface](interface.PNG)
-	
-	- Enter integers, fractions or both(using the SPC button)
-	- CAL or Calibration allows the user to change the position without the motor turning
 	- The blue text above is the current position of the motor
+	- Enter integers, fractions or both(using the SPC button)
+	- CAL or Calibration allows the user to change the current position without the motor turning
 	- The Setting button on the top right allows the user to go to the setting page and change the speed of the motor
 
 ## Example
