@@ -40,3 +40,6 @@
 	
 	User: 1 -> Enter
 	Motor: Rotates a full Revolution to get to the "1" position
+	
+## Update
+	Added the .hmi file so anyone can play around with the display
