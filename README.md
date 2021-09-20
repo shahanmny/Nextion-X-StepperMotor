@@ -33,7 +33,7 @@
 	Motor: Rotates 3/4 of a Revolution to get to the "2" position
 	
 	User: -1 -> Enter
-	Motor: Rotates back 3 full Revoultions back to get to the "-1" position 
+	Motor: Rotates back 3 full Revolutions back to get to the "-1" position 
 	
 	User: 0 -> CAL
 	Motor: Does not rotate but it is at the "0" position
